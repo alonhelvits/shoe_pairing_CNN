@@ -9,3 +9,7 @@ My working procces in headlines:
 3. Writing the inital network (We recived limiation regarding the number of layers and more)
 4. writing the training function, checking the model on a small subset to make sure it overfits the subset
 5. Start training with different hyperparameters while watching the learning curves. Changing and improving the model to achive highest valid score
+
+
+![image](https://github.com/alonhelvits/shoe_pairing_CNN/assets/42146331/319b217d-26c2-44c3-91b1-d6af86a9e917)
+![image](https://github.com/alonhelvits/shoe_pairing_CNN/assets/42146331/e5cdd3ca-5ea9-45ac-9bfb-655de9f70b77)
